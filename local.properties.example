@@ -1,0 +1,15 @@
+# Bu dosyayı local.properties olarak kopyalayın ve gerçek değerlerinizi girin
+# local.properties dosyası .gitignore'da olduğu için Git'e yüklenmeyecek
+
+# Google Maps API Anahtarı
+# Google Cloud Console'dan alın: https://console.cloud.google.com/
+GOOGLE_MAPS_API_KEY=YOUR_GOOGLE_MAPS_API_KEY_HERE
+
+# Backend URL
+# Geliştirme ortamı için yerel IP adresinizi girin
+# Production için gerçek domain adresinizi girin
+BACKEND_URL=http://192.168.2.125:8080/
+
+# Örnek değerler:
+# GOOGLE_MAPS_API_KEY=AIzaSyDgKBPwgqYY7KyvMg9aZUJ0DaDEU1W27cM
+# BACKEND_URL=http://192.168.1.100:8080/
