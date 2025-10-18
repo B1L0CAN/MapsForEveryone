@@ -52,8 +52,7 @@ MapsForEveryone/
 │   │   │   ├── TransitService.java # Toplu taşıma servisi interface'i
 │   │   │   └── TransitServiceImpl.java # Toplu taşıma servisi implementasyonu
 │   │   ├── MainActivity.kt      # Ana Activity
-│   │   ├── MapsApplication.kt   # Application sınıfı
-│   │   
+│   │   ├── MapsApplication.kt   # Application sınıfı  
 │   ├── src/main/res/            # Kaynaklar (layout, drawable, vb.)
 │   ├── build.gradle            # Uygulama build konfigürasyonu
 │   └── proguard-rules.pro      # ProGuard kuralları
